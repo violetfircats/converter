@@ -8,7 +8,7 @@
 
 build/dependencies/ffmpeg-win 是 windows 下的 ffmpeg 可执行程序，版本为 5.0.1。
 
-使用 fyne 制作了跨平台 GUI。
+使用 fyne 制作了跨平台 GUI
 
 ## 路线
 
